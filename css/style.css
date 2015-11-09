@@ -401,7 +401,7 @@ h4
 {
     display: flex;
 
-    flex-wrap: no-wrap;
+    flex-wrap: nowrap;
     justify-content: space-between;
 }
 .check-table
